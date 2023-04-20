@@ -13,7 +13,10 @@ kecurangan seperti yang telah dispesifikasikan. Aamiin.
 ## Requirements Soal:
 - Ketika objek player digerakkan menggunakan 'W', 'A', 'S', 'D' skor bertambah 1.
 - Menambahkan sebuah objek baru (RandomObjek) yang muncul dengan nilai posisi X dan Y random, dan ketika objek player menyentuh objek baru tersebut, objek tersebut menghilang dan muncul kembali dengan posisi X dan Y random.
-  
+
+## Design Program
+![image](https://user-images.githubusercontent.com/101335350/233282432-afda8d43-d019-40f8-aead-41f926848e5f.png)
+
 ## Dokumentasi:
 - Requirement soal nomor 1 dan 2:<br>
 ![Animation](https://user-images.githubusercontent.com/101335350/233258472-b30687fd-1d4a-4f4f-9a98-f47909d03718.gif)
