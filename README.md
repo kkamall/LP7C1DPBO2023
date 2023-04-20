@@ -19,4 +19,4 @@ kecurangan seperti yang telah dispesifikasikan. Aamiin.
 ![Animation](https://user-images.githubusercontent.com/101335350/233258472-b30687fd-1d4a-4f4f-9a98-f47909d03718.gif)
 - 'Tambahan' ketika objek player bersentuhan dengan random objek, skor baru bertambah:<br>
   - Note: Comment kode baris 104, 110, 116, dan 122 pada kelas Controller, lalu uncomment kode baris 251 pada kelas Game.
-  ![Animation](https://user-images.githubusercontent.com/101335350/233258005-b90d18db-1b34-4f14-8581-3d81ea2d29d1.gif)
+![Animation](https://user-images.githubusercontent.com/101335350/233258005-b90d18db-1b34-4f14-8581-3d81ea2d29d1.gif)
